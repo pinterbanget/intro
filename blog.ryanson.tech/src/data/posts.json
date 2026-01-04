@@ -1,0 +1,25 @@
+[
+    {
+        "id": "welcome-to-my-blog",
+        "title": "Welcome to my blog!",
+        "date": "2025-12-30",
+        "tags": [
+            "personal",
+            "webdev"
+        ],
+        "excerpt": "This is the first post on my new blog. I'm excited to share my thoughts and projects here.",
+        "content": "<h1>Welcome!</h1><p>I finally decided to start a blog. I wanted something simple, fast, and easy to maintain. This blog is built with Next.js, and everything is driven by a single JSON file.</p><p>Stay tuned for more updates on AI, data science, and web development!</p>"
+    },
+    {
+        "id": "pivoting-to-nextjs",
+        "title": "Pivoting to Next.js for a Better Dev Experience",
+        "date": "2025-12-31",
+        "tags": [
+            "webdev",
+            "architecture",
+            "nextjs"
+        ],
+        "excerpt": "Why I switched from pure HTML to Next.js mid-development.",
+        "content": "<h1>The Pivot</h1><p>While plain HTML is great, it can be tricky to test locally due to CORS security policies on the <code>file://</code> protocol. Next.js gives me a powerful dev server and makes routing a breeze.</p><p>Plus, it's perfect for Vercel!</p>"
+    }
+]
